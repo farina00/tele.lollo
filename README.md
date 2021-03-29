@@ -1,6 +1,6 @@
 # Tele Lollo
 
-A tiny web site https://farina00.github.io/tele.lollo/ to play a small list of some publicly available IPTV channels.
+A tiny web site to play a small list of some publicly available IPTV channels (in italiano).
 
 The IPTV channels are sourced from https://github.com/iptv-org/iptv
 
