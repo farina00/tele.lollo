@@ -72,7 +72,7 @@ I care about your privacy, that's why Tele Lollo :
 - does not run analytics  
 - does not share any information with third parties
 
->    But, let's be perfectly clear on this: we use GitHub Inc to serve this website
+>    But, let's be perfectly clear on this: I use GitHub Inc to serve this website
 >    and GitHub, Inc. (the provider of Internet hosting for this website)
 >    may collect User Personal Information from visitors to this website, 
 >    including logs of visitor IP addresses, to comply with legal obligations, 
