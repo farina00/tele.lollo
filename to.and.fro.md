@@ -78,4 +78,7 @@ I care about your privacy, that's why
 Any kind of contribution is welcome! 
 If you have an idea how to improve the project create an issue with a detailed description of your idea.
 
-Any idea/suggestion is welcome. 
+## Author
+
+Howdy, I am Farina Doppiozero, a software engineer who lives and works in London, UK. 
+
