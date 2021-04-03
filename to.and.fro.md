@@ -4,9 +4,12 @@
 
 ## Welcome
 
-    :point_right: I believe everyone deserves to watch a bit of tele. My goal is to remove any technical barrier that can prevent 
+. . . :point_down:
+
+    I believe everyone deserves to watch a bit of tele. My goal is to remove any technical barrier that can prevent 
     you from doing so.
 
+. . . :point_up:
 
 ## About
 
