@@ -29,22 +29,20 @@ please [open an issue](https://github.com/farina00/tele.lollo/issues) and I will
 - In 2009, [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) was released 
 - In 2021, [Tele Lollo](https://farina00.github.io/tele.lollo) was created (broadcasting only a selection of italian channels) 
 
-## Acknowledgments
+## Technologies
 
 I would have not been able to build Tele Lollo without leaning on other people's work, tools and technologies.
 
-- HTML5 
-- JavaScript 
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) 
 - [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
-- [hls.js](https://github.com/video-dev/hls.js/) 
 - [m3u](https://en.wikipedia.org/wiki/M3U)
 - [iptv](https://en.wikipedia.org/wiki/Internet_Protocol_television)
+- [hls.js](https://github.com/video-dev/hls.js/) 
 - [terser.js](https://github.com/terser/terser)
-- HTML-minifier(https://github.com/kangax/html-minifier)
-- cloudfare 
-- Github pages 
-- CDN
-- Visual Studio Code
+- [HTML-minifier](https://github.com/kangax/html-minifier)
+- [cloudfare CDN](https://www.cloudflare.com/cdn/)
+- [Github pages](https://pages.github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Terms And Conditions
 
@@ -82,7 +80,7 @@ I care about your privacy, that's why
 ## Contributions
 
 Any kind of contribution is welcome! 
-If you have an idea how to improve the project create an issue with a detailed description of your idea.
+If you have an idea on how to improve the project create an issue with a detailed description of your idea.
 
 ## Author
 
