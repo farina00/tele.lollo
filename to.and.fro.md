@@ -4,7 +4,7 @@
 
 ## Welcome
 
-    I believe everyone deserves to watch a bit of tele. My goal is to remove any technical barrier that can prevent 
+    :point_right: I believe everyone deserves to watch a bit of tele. My goal is to remove any technical barrier that can prevent 
     you from doing so.
 
 
@@ -48,7 +48,9 @@ I would have not been able to build Tele Lollo without leaning on the work of ot
 
 You can go to Tele Lollo as many times as you want and watch as much tele as you want.
 In fact, I would love for you to use this website.
-If you enjoy you can also tell others about how great it is. 
+
+And if you enjoy it you can also tell others about how great it is. 
+
 But, heads up, I can't guarantee that the channels will always be up.
 And if they are not, you have got to live with that.  
           
@@ -80,5 +82,5 @@ If you have an idea how to improve the project create an issue with a detailed d
 
 ## Author
 
-Howdy, I am Farina Doppiozero, a software engineer who lives and works in London, UK. 
+:blush: Howdy, I am Farina Doppiozero, a software engineer who lives and works in London, UK. 
 
