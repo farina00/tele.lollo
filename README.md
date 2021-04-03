@@ -63,15 +63,14 @@ And if they are not, you have got to live with that.
 
 <p align="right"><sup><i>Last Updated April 2021</i></sup></p>
 
-I care about your privacy, that's why :
-- I don't ask your email 
-- I don't track you 
-- I don't profile you
-- I don't sell Ads 
-- I don't store cookies on your device
-- I don't run analytics  
-- I don't share any information with third parties
-- I don't update this policy that often (but, if I do, I will change the date above)
+I care about your privacy, that's why Tele Lollo :
+- does not ask your email 
+- does not track you 
+- does not profile you
+- does not sell Ads 
+- does not store cookies on your device
+- does not run analytics  
+- does not share any information with third parties
 
 >    But, let's be perfectly clear on this: we use GitHub Inc to serve this website
 >    and GitHub, Inc. (the provider of Internet hosting for this website)
