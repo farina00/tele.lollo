@@ -5,8 +5,8 @@
 ## Welcome
 
 
-    I believe everyone deserves to watch a bit of tele. My goal is to remove any technical barrier that can prevent 
-    you from doing so.
+>    I believe everyone deserves to watch a bit of tele. My goal is to remove any technical barrier that can prevent 
+>    you from doing so.
 
 
 ## About Tele Lollo
