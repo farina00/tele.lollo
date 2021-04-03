@@ -2,15 +2,15 @@
 <p align='center'>:tv: - :open_mouth::open_mouth::open_mouth:...:open_mouth:</p>
 <p></p>
 
-## Welcome
 
+>
 > I believe everyone deserves to watch a bit of tele. 
 > My goal is to remove any technical barrier that can prevent you from doing so.
-
+>
 
 ## About Tele Lollo
 
-Tele Lollo is a super simple website that, by using today's technologies, can stream tv.
+[Tele Lollo](https://farina00.github.io/tele.lollo) is a super simple website that, by using today's technologies, can stream tv.
 
 And, it doesn't store any video file. 
 
@@ -34,16 +34,16 @@ please [open an issue](https://github.com/farina00/tele.lollo/issues) and I will
 
 I would have not been able to build Tele Lollo without leaning on other people's work, tools and technologies.
 
-- [HTML5](https://en.wikipedia.org/wiki/HTML5) 
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) - Tele Lollo is a Web App not a native App 
 - [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
-- [m3u](https://en.wikipedia.org/wiki/M3U)
+- [m3u](https://en.wikipedia.org/wiki/M3U) 
 - [iptv](https://en.wikipedia.org/wiki/Internet_Protocol_television)
 - [hls.js](https://github.com/video-dev/hls.js/) 
 - [terser.js](https://github.com/terser/terser)
-- [HTML-minifier](https://github.com/kangax/html-minifier)
-- [cloudfare CDN](https://www.cloudflare.com/cdn/)
-- [Github pages](https://pages.github.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [HTML-minifier](https://github.com/kangax/html-minifier) 
+- [cloudfare CDN](https://www.cloudflare.com/cdn/) - The CDN for some of the JavaScript resources
+- [Github pages](https://pages.github.com/) - The web hosting service
+- [Visual Studio Code](https://code.visualstudio.com/) - The IDE I have been using
 
 
 ## Terms And Conditions
