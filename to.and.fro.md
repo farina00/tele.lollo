@@ -20,7 +20,7 @@ which, to the best of my knowledge, have been intentionally made publicly by the
 The selection of channels (external links .m3u8) is sourced from https://github.com/iptv-org/iptv
 
 If any link infringe on your rights as a copyright holder, 
-please open an [issue](https://github.com/farina00/tele.lollo/issues) on our github repository and I will remove it. 
+please [open an issue](https://github.com/farina00/tele.lollo/issues) and I will remove it. 
 
 ## Chronicle
 
@@ -67,9 +67,15 @@ I care about your privacy, that's why
 - I don't share any information with third parties
 - I don't update this policy that often (but, if I do, I will change the date above)
 
-But, let's be perfectly clear on this: we use GitHub Inc to serve this website
-and GitHub, Inc. (the provider of Internet hosting for this website)
-may collect User Personal Information from visitors to this website, 
-including logs of visitor IP addresses, to comply with legal obligations, 
-and to maintain the security and integrity of the Website and the Service.
+    But, let's be perfectly clear on this: we use GitHub Inc to serve this website
+    and GitHub, Inc. (the provider of Internet hosting for this website)
+    may collect User Personal Information from visitors to this website, 
+    including logs of visitor IP addresses, to comply with legal obligations, 
+    and to maintain the security and integrity of the Website and the Service.
 
+## Contributions
+
+Any kind of contribution is welcome! 
+If you have an idea how to improve the project create an issue with a detailed description of your idea.
+
+Any idea/suggestion is welcome. 
