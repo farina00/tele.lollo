@@ -20,7 +20,7 @@ which, to the best of my knowledge, have been intentionally made publicly by the
 The selection of channels (external links .m3u8) is sourced from https://github.com/iptv-org/iptv
 
     If any link infringe on your rights as a copyright holder, 
-    please open an issue on our github repository and I will remove it. 
+    please open an (issue)[https://github.com/farina00/tele.lollo/issues] on our github repository and I will remove it. 
 
 
 ## Chronicle
