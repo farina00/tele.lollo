@@ -26,7 +26,7 @@ please open an [issue](https://github.com/farina00/tele.lollo/issues) on our git
 
 - In 1995, the term [IPTV](https://en.wikipedia.org/wiki/Internet_Protocol_television#History) first appeared 
 - In 2009, [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) was released 
-- In 2021, Tele Lollo was created (broadcasting only a selection of italian channels) 
+- In 2021, [Tele Lollo](https://farina00.github.io/tele.lollo) was created (broadcasting only a selection of italian channels) 
 
 ## Acknowledgments
 
@@ -44,7 +44,7 @@ I would have not been able to build Tele Lollo without leaning on the work of ot
 
 ## Terms And Conditions
 
-<div style="text-align: right">Last Updated April 2021</div>
+##### Last Updated April 2021
 
 You can go to Tele Lollo as many times as you want and watch as much tele as you want.
 In fact, I would love for you to use this website.
@@ -55,7 +55,7 @@ And if they are not, you have got to live with that.
 
 ## Privacy
 
-<div style="text-align: right">Last Updated April 2021</div>
+##### Last Updated April 2021
 
 I care about your privacy, that's why 
 - I don't ask your email 
