@@ -50,7 +50,7 @@ I would have not been able to build Tele Lollo without leaning on other people's
 
 <p align="right"><sup><i>Last Updated April 2021</i></sup></p>
 
-You can go to Tele Lollo as many times as you want and watch as much tele as you want.
+You can go to [Tele Lollo](https://farina00.github.io/tele.lollo) as many times as you want and watch as much tele as you want.
 In fact, I would love for you to use this website.
 
 And if you enjoy it you can also tell others about how great it is. 
