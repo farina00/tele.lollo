@@ -63,27 +63,27 @@ And if they are not, you have got to live with that.
 
 <p align="right"><sup><i>Last Updated April 2021</i></sup></p>
 
-I care about your privacy, that's why 
+I care about your privacy, that's why :
 - I don't ask your email 
 - I don't track you 
 - I don't profile you
-- I don't have Ads 
+- I don't sell Ads 
 - I don't store cookies on your device
 - I don't run analytics  
 - I don't share any information with third parties
 - I don't update this policy that often (but, if I do, I will change the date above)
 
-    But, let's be perfectly clear on this: we use GitHub Inc to serve this website
-    and GitHub, Inc. (the provider of Internet hosting for this website)
-    may collect User Personal Information from visitors to this website, 
-    including logs of visitor IP addresses, to comply with legal obligations, 
-    and to maintain the security and integrity of the Website and the Service.
+>    But, let's be perfectly clear on this: we use GitHub Inc to serve this website
+>    and GitHub, Inc. (the provider of Internet hosting for this website)
+>    may collect User Personal Information from visitors to this website, 
+>    including logs of visitor IP addresses, to comply with legal obligations, 
+>    and to maintain the security and integrity of the Website and the Service.
 
 
 ## Contributions
 
 Any kind of contribution is welcome! 
-If you have an idea on how to improve the project create an issue with a detailed description of your idea.
+If you have an idea on how to improve the project create an issue with a description of your idea. Thank you.
 
 
 ## Author
