@@ -44,6 +44,8 @@ I would have not been able to build Tele Lollo without leaning on the work of ot
 
 ## Terms And Conditions
 
+##### Last Updated April 2021
+
 You can go to Tele Lollo as many times as you want and watch as much tele as you want.
 In fact, I would love for you to use this website.
 If you enjoy you can also tell others about how great it is. 
@@ -52,6 +54,8 @@ And if they are not, you have got to live with that.
           
 
 ## Privacy
+
+##### Last Updated April 2021
 
 I care about your privacy, that's why 
 - I don't ask your email 
