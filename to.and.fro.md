@@ -20,18 +20,17 @@ which, to the best of my knowledge, have been intentionally made publicly by the
 The selection of channels (external links .m3u8) is sourced from https://github.com/iptv-org/iptv
 
 If any link infringe on your rights as a copyright holder, 
-please open an (issue)[https://github.com/farina00/tele.lollo/issues] on our github repository and I will remove it. 
-
+please open an [issue](https://github.com/farina00/tele.lollo/issues) on our github repository and I will remove it. 
 
 ## Chronicle
 
-- In 1995, the term IPTV first appeared https://en.wikipedia.org/wiki/Internet_Protocol_television#History
-- In 2009, HTTP Live Streaming was released https://en.wikipedia.org/wiki/HTTP_Live_Streaming
+- In 1995, the term [IPTV](https://en.wikipedia.org/wiki/Internet_Protocol_television#History) first appeared 
+- In 2009, [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) was released 
 - In 2021, Tele Lollo was created (broadcasting only a selection of italian channels) 
 
 ## Acknowledgments
 
-Tele Lollo could be built  ...
+I would have not been able to build Tele Lollo without leaning on the work of others  
 
 - HTML5 
 - JavaScript 
