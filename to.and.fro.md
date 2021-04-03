@@ -4,12 +4,10 @@
 
 ## Welcome
 
-:zap: :point_down:
 
     I believe everyone deserves to watch a bit of tele. My goal is to remove any technical barrier that can prevent 
     you from doing so.
 
-:zap: :point_up:
 
 ## About
 
@@ -33,13 +31,16 @@ please [open an issue](https://github.com/farina00/tele.lollo/issues) and I will
 
 ## Acknowledgments
 
-I would have not been able to build Tele Lollo without leaning on the work of others  
+I would have not been able to build Tele Lollo without leaning on other people's work, tools and technologies.
 
 - HTML5 
 - JavaScript 
-- hls.js 
-- m3u 
-- iptv 
+- [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
+- [hls.js](https://github.com/video-dev/hls.js/) 
+- [m3u](https://en.wikipedia.org/wiki/M3U)
+- [iptv](https://en.wikipedia.org/wiki/Internet_Protocol_television)
+- [terser.js](https://github.com/terser/terser)
+- HTML-minifier(https://github.com/kangax/html-minifier)
 - cloudfare 
 - Github pages 
 - CDN
