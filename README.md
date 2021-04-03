@@ -34,13 +34,13 @@ please [open an issue](https://github.com/farina00/tele.lollo/issues) and I will
 
 I would have not been able to build Tele Lollo without leaning on other people's work, tools and technologies.
 
-- [HTML5](https://en.wikipedia.org/wiki/HTML5) - Tele Lollo is a Web App not a native App 
-- [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming)
-- [m3u](https://en.wikipedia.org/wiki/M3U) 
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) - Since Tele Lollo is a Web App not a native App 
+- [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) - The protocol to stream the television channels
+- [m3u](https://en.wikipedia.org/wiki/M3U) - 
 - [iptv](https://en.wikipedia.org/wiki/Internet_Protocol_television)
 - [hls.js](https://github.com/video-dev/hls.js/) 
-- [terser.js](https://github.com/terser/terser)
-- [HTML-minifier](https://github.com/kangax/html-minifier) 
+- [terser.js](https://github.com/terser/terser) - to reduce load times and bandwidth 
+- [HTML-minifier](https://github.com/kangax/html-minifier) - to reduce load times and bandwidth
 - [cloudfare CDN](https://www.cloudflare.com/cdn/) - The CDN for some of the JavaScript resources
 - [Github pages](https://pages.github.com/) - The web hosting service
 - [Visual Studio Code](https://code.visualstudio.com/) - The IDE I have been using
