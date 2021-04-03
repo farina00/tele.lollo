@@ -1,6 +1,6 @@
-# Watch television from the browser. Period.
-
-:tv: - :open_mouth::open_mouth::open_mouth:...:open_mouth:
+<p align='center'>Watch television from the browser. Period.</p>
+<p align='center'>:tv: - :open_mouth::open_mouth::open_mouth:...:open_mouth:</p>
+<p></p>
 
 ## Welcome
 
