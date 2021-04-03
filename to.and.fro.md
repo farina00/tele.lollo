@@ -4,12 +4,12 @@
 
 ## Welcome
 
-. . . :point_down:
+:zap: :point_down:
 
     I believe everyone deserves to watch a bit of tele. My goal is to remove any technical barrier that can prevent 
     you from doing so.
 
-. . . :point_up:
+:zap: :point_up:
 
 ## About
 
