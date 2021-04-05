@@ -36,47 +36,14 @@ I would have not been able to build Tele Lollo without leaning on other people's
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) - Since Tele Lollo is a Web App not a native App 
 - [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) - The protocol to stream the television channels
-- [m3u](https://en.wikipedia.org/wiki/M3U) - 
-- [iptv](https://en.wikipedia.org/wiki/Internet_Protocol_television)
-- [hls.js](https://github.com/video-dev/hls.js/) 
+- [m3u](https://en.wikipedia.org/wiki/M3U) - The file format for playlist to stream
+- [iptv](https://en.wikipedia.org/wiki/Internet_Protocol_television) - The protocol to have television over IP
+- [hls.js](https://github.com/video-dev/hls.js/) - Awesome JavaScript library to implement an HTTP Live Streaming client
 - [terser.js](https://github.com/terser/terser) - to reduce load times and bandwidth 
 - [HTML-minifier](https://github.com/kangax/html-minifier) - to reduce load times and bandwidth
 - [cloudfare CDN](https://www.cloudflare.com/cdn/) - The CDN for some of the JavaScript resources
 - [Github pages](https://pages.github.com/) - The web hosting service
-- [Visual Studio Code](https://code.visualstudio.com/) - The IDE I have been using
-
-
-## Terms And Conditions
-
-<p align="right"><sup><i>Last Updated April 2021</i></sup></p>
-
-You can go to [Tele Lollo](https://farina00.github.io/tele.lollo) as many times as you want and watch as much tele as you want.
-In fact, I would love for you to use this website.
-
-And if you enjoy it you can also tell others about how great it is. 
-
-But, heads up, I can't guarantee that the channels will always be up.
-And if they are not, you have got to live with that.  
-          
-
-## Privacy
-
-<p align="right"><sup><i>Last Updated April 2021</i></sup></p>
-
-I care about your privacy, that's why Tele Lollo :
-- does not ask your email 
-- does not track you 
-- does not profile you
-- does not sell Ads 
-- does not store cookies on your device
-- does not run analytics  
-- does not share any information with third parties
-
->    But, let's be perfectly clear on this: I use GitHub Inc to serve this website
->    and GitHub, Inc. (the provider of Internet hosting for this website)
->    may collect User Personal Information from visitors to this website, 
->    including logs of visitor IP addresses, to comply with legal obligations, 
->    and to maintain the security and integrity of the Website and the Service.
+- [Visual Studio Code](https://code.visualstudio.com/) - The IDE I have been using to write Tele Lollo
 
 
 ## Contributions
