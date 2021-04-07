@@ -36,7 +36,6 @@ I would have not been able to build Tele Lollo without leaning on other people's
 
 - [HTML5](https://en.wikipedia.org/wiki/HTML5) - Since Tele Lollo is a Web App not a native App 
 - [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) - The protocol to stream the television channels
-- [m3u](https://en.wikipedia.org/wiki/M3U) - The file format for playlist to stream
 - [iptv](https://en.wikipedia.org/wiki/Internet_Protocol_television) - The protocol to have television over IP
 - [hls.js](https://github.com/video-dev/hls.js/) - Awesome JavaScript library to implement an HTTP Live Streaming client
 - [terser.js](https://github.com/terser/terser) - to reduce load times and bandwidth 
