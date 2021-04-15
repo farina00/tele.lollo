@@ -30,21 +30,6 @@ please [open an issue](https://github.com/farina00/tele.lollo/issues) and I will
 - In 2021, [Tele Lollo](https://farina00.github.io/tele.lollo) was created (broadcasting only a selection of italian channels) 
 
 
-## Technologies
-
-I would have not been able to build Tele Lollo without leaning on other people's work, tools and technologies.
-
-- [HTML5](https://en.wikipedia.org/wiki/HTML5) - Since Tele Lollo is a Web App not a native App 
-- [HTTP Live Streaming](https://en.wikipedia.org/wiki/HTTP_Live_Streaming) - The protocol to stream the television channels
-- [iptv](https://en.wikipedia.org/wiki/Internet_Protocol_television) - The protocol to have television over IP
-- [hls.js](https://github.com/video-dev/hls.js/) - Awesome JavaScript library to implement an HTTP Live Streaming client
-- [terser.js](https://github.com/terser/terser) - to reduce load times and bandwidth 
-- [HTML-minifier](https://github.com/kangax/html-minifier) - to reduce load times and bandwidth
-- [cloudfare CDN](https://www.cloudflare.com/cdn/) - The CDN for some of the JavaScript resources
-- [Github pages](https://pages.github.com/) - The web hosting service
-- [Visual Studio Code](https://code.visualstudio.com/) - The IDE I have been using to write Tele Lollo
-
-
 ## Contributions
 
 Any kind of contribution is welcome! 
